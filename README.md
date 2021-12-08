@@ -1,2 +1,2 @@
 # gspann-intern-batch
-Sample repo for interns 
+Demo repo for interns 
